@@ -8,6 +8,7 @@ public class SampleTest {
 		System.out.println("Testing app");
 		System.out.println("Testing gog withs fsdf ");
 		System.out.println("Testing gog withs 121242 ");
+		System.out.println("Testing gog adasda4234324 fsdf ");
 	}
 	
 	@Test
