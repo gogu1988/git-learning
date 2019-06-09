@@ -7,6 +7,7 @@ public class SampleTest {
 	public void testApp(){
 		System.out.println("Testing app");
 		System.out.println("Testing gog withs fsdf ");
+		System.out.println("Testing gog withs 121242 ");
 	}
 	
 	@Test
